@@ -19,6 +19,6 @@
 
 ## 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:00.gm84@gmail.com)](mailto:00.gm84@gmail.com)
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chhk"/>
+<a href="https://www.linkedin.com/in/chhk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chhk"/></a>
   
 </div>
